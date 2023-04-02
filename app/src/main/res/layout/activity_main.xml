@@ -35,7 +35,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@color/Orange2"
+                android:background="@color/red"
                 android:orientation="horizontal"
                 android:weightSum="3"
                 >
@@ -55,7 +55,7 @@
                         android:padding="4dp"
                         android:text="Cases"
                         android:textAlignment="center"
-                        android:textColor="@color/purple_200"
+                        android:textColor="@color/black"
                         android:textSize="16dp"
                         android:textStyle="bold" />
 
@@ -67,7 +67,7 @@
                         android:padding="4dp"
                         android:text="Number of cases"
                         android:textAlignment="center"
-                        android:textColor="@color/teal_200"
+                        android:textColor="@color/gray"
                         android:textSize="16dp"
                         />
 
@@ -87,7 +87,7 @@
                         android:padding="4dp"
                         android:text="Recovered"
                         android:textAlignment="center"
-                        android:textColor="@color/purple_200"
+                        android:textColor="@color/black"
                         android:textSize="16dp"
                         android:textStyle="bold" />
 
@@ -99,7 +99,7 @@
                         android:text="Number of Recovered"
                         android:id="@+id/tvWorldRecovered"
                         android:textAlignment="center"
-                        android:textColor="@color/teal_200"
+                        android:textColor="@color/gray"
                         android:textSize="16dp" />
 
                 </LinearLayout>
@@ -118,7 +118,7 @@
                         android:padding="4dp"
                         android:text="Deaths"
                         android:textAlignment="center"
-                        android:textColor="@color/purple_200"
+                        android:textColor="@color/black"
                         android:textSize="16dp"
                         android:textStyle="bold" />
 
@@ -130,7 +130,7 @@
                         android:text="Number of deaths"
                         android:id="@+id/tvWorldDeaths"
                         android:textAlignment="center"
-                        android:textColor="@color/teal_200"
+                        android:textColor="@color/gray"
                         android:textSize="16dp" />
 
                 </LinearLayout>
@@ -168,7 +168,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@color/Orange2"
+                android:background="@color/red"
                 android:orientation="horizontal"
                 android:weightSum="3">
 
@@ -186,7 +186,7 @@
                         android:padding="4dp"
                         android:text="Cases"
                         android:textAlignment="center"
-                        android:textColor="@color/purple_200"
+                        android:textColor="@color/black"
                         android:textSize="16dp"
                         android:textStyle="bold" />
 
@@ -198,7 +198,7 @@
                         android:padding="4dp"
                         android:text="Number of cases"
                         android:textAlignment="center"
-                        android:textColor="@color/teal_200"
+                        android:textColor="@color/gray"
                         android:textSize="16dp" />
 
                 </LinearLayout>
@@ -217,7 +217,7 @@
                         android:padding="4dp"
                         android:text="Recovered"
                         android:textAlignment="center"
-                        android:textColor="@color/purple_200"
+                        android:textColor="@color/black"
                         android:textSize="16dp"
                         android:textStyle="bold" />
 
@@ -229,7 +229,7 @@
                         android:text="Number of Recovered"
                         android:id="@+id/tvIndianRecovered"
                         android:textAlignment="center"
-                        android:textColor="@color/teal_200"
+                        android:textColor="@color/gray"
                         android:textSize="16dp" />
 
                 </LinearLayout>
@@ -248,7 +248,7 @@
                         android:padding="4dp"
                         android:text="Deaths"
                         android:textAlignment="center"
-                        android:textColor="@color/purple_200"
+                        android:textColor="@color/black"
                         android:textSize="16dp"
                         android:textStyle="bold" />
 
@@ -260,7 +260,7 @@
                         android:text="Number of deaths"
                         android:id="@+id/tvIndianDeaths"
                         android:textAlignment="center"
-                        android:textColor="@color/teal_200"
+                        android:textColor="@color/gray"
                         android:textSize="16dp" />
 
                 </LinearLayout>
